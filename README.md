@@ -1,9 +1,9 @@
 <!-- badge -->
 <div align="center">
-  <a href="https://matrix.to/#/@dieguitux8623:matrix.org" target="_blank"><img alt="Matrix logo" src="https://img.shields.io/badge/matrix-0DBD8B?logo=Matrix" /></a>
-  <a href="https://androiddev.social/@janTeko" target="_blank"><img alt="Mastodon logo" src="https://img.shields.io/badge/mastodon-6364FF?logo=Mastodon" /></a>
-  <a href="https://t.me/akesi_seli" target="_blank"><img alt="Telegram logo" src="https://img.shields.io/badge/telegram-26A5E4?logo=Telegram" /></a>
-  <a href="mailto:andonguenena@gmail.com" target="_blank"><img alt="Gmail logo" src="https://img.shields.io/badge/email-8A2BE2?logo=Gmail" /></a>
+  <a href="https://matrix.to/#/@dieguitux8623:matrix.org" target="_blank"><img alt="Matrix logo" src="https://img.shields.io/badge/matrix-8cffb2?logo=Matrix" /></a>
+  <a href="https://androiddev.social/@janTeko" target="_blank"><img alt="Mastodon logo" src="https://img.shields.io/badge/mastodon-bfbfff?logo=Mastodon" /></a>
+  <a href="https://t.me/akesi_seli" target="_blank"><img alt="Telegram logo" src="https://img.shields.io/badge/telegram-cdebff?logo=Telegram" /></a>
+  <a href="mailto:andonguenena@gmail.com" target="_blank"><img alt="Gmail logo" src="https://img.shields.io/badge/email-ff9bb5?logo=Gmail" /></a>
 </div>
 
 Hi! I'm an Android developer, I ❤️ Kotlin and open source. Also, I'm addicted to raccoons 🦝🦝🦝
