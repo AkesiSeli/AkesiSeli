@@ -10,10 +10,13 @@ Hi! I'm an Android developer, I ❤️ Kotlin and open source. Also, I'm addicte
 
 If you have any questions or just want to say hi, feel free to reach out.
 
-#### 📊 Some statistics
+#### 📊 GitHub statistics
 
 <div>
-  <img alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkesiSeli&hide=stars&theme=midnight_purple" />
+  <img alt="stats graph" width="415" src="https://streak-stats.demolab.com/?user=AkesiSeli&theme=midnight_purple" />
+  <img alt="stats graph" width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkesiSeli&hide=stars&theme=midnight_purple" />
+</div>
+<div>
   <img alt="profile detail" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkesiSeli&theme=midnight_purple" />
 </div>
 
