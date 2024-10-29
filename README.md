@@ -13,7 +13,7 @@ If you have any questions or just want to say hi, feel free to reach out.
 #### 📊 GitHub statistics
 
 <div>
-  <img alt="stats graph" width="415" src="https://streak-stats.demolab.com/?user=AkesiSeli&theme=midnight_purple" />
+  <img alt="stats graph" width="415" src="https://streak-stats.demolab.com/?user=AkesiSeli&theme=midnight_purple&hide_border=true" />
   <img alt="stats graph" width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkesiSeli&hide=stars&theme=midnight_purple" />
 </div>
 <div>
