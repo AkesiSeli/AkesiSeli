@@ -6,11 +6,20 @@
   <a href="mailto:andonguenena@gmail.com" target="_blank"><img alt="Gmail logo" src="https://img.shields.io/badge/email-ff9bb5?logo=Gmail" /></a>
 </div>
 
+### 🌟 About me
+
 Hi! I'm an Android developer, I ❤️ Kotlin and open source. Also, I'm addicted to raccoons 🦝🦝🦝
 
 If you have any questions or just want to say hi, feel free to reach out.
 
-#### 📊 GitHub statistics
+### 👨‍💻 Maintained repositories
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForLemmy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForFriendica&theme=tokyonight" />
+</div>
+
+### 📊 GitHub statistics
 
 <div>
   <img alt="stats graph" width="415" src="https://streak-stats.demolab.com/?user=AkesiSeli&theme=midnight_purple&hide_border=true" />
