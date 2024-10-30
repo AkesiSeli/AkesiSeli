@@ -8,16 +8,9 @@
 
 ### 🌟 About me
 
-Hi! I'm an Android developer, I ❤️ Kotlin and open source. Also, I'm addicted to raccoons 🦝🦝🦝
+Hi! I'm an Android developer, I ❤️ Kotlin and open source. I am 🇮🇹 so basically carb-addicted 🍕🍝 but, also, I couldn't live wihout coons 🦝.
 
 If you have any questions or just want to say hi, feel free to reach out.
-
-### 👨‍💻 Maintained repositories
-
-<div align="center">
-  <a href="https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForLemmy&theme=tokyonight" /></a>
-  <a href="https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForFriendica&theme=tokyonight" /></a>
-</div>
 
 ### 📊 GitHub statistics
 
